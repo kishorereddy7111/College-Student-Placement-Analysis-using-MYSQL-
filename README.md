@@ -71,3 +71,4 @@ How do communication skills affect placement success?
 This SQL project answers these questions using relational database analysis.
 
 6.Screenshot
+Example : (https://github.com/kishorereddy7111/College-Student-Placement-Analysis-using-MYSQL-/blob/main/Screenshot%202026-02-26%20161100.png)
